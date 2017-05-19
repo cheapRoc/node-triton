@@ -24,6 +24,7 @@ var subs = [
     ['profile'],
     ['profile list', 'profile ls', 'profiles'],
     ['profile get'],
+    ['profile set-default'],
     ['profile set-current'],
     ['profile create'],
     ['profile edit'],
